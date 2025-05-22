@@ -1,4 +1,4 @@
-#include "runtime/core/math/axis_aligned.h"
+#include "axis_aligned.h"
 
 namespace Piccolo
 {
@@ -21,4 +21,4 @@ namespace Piccolo
         m_max_corner  = center + half_extent;
     }
 
-} // namespace Piccolo
+}

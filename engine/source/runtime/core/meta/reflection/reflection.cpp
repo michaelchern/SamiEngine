@@ -382,5 +382,5 @@ namespace Piccolo
 
             return *this;
         }
-    } // namespace Reflection
-} // namespace Piccolo
+    }
+}

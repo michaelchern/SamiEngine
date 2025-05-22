@@ -1,7 +1,8 @@
 #pragma once
 
-#include "runtime/core/math/vector3.h"
-#include "runtime/core/meta/reflection/reflection.h"
+#include "vector3.h"
+// #include "runtime/core/meta/reflection/reflection.h"
+#include "../meta/reflection/reflection.h"
 #include <limits>
 
 namespace Piccolo

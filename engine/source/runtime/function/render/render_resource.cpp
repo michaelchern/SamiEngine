@@ -1199,4 +1199,4 @@ namespace Piccolo
 
         static_assert(64 >= sizeof(MeshVertex::VulkanMeshVertexJointBinding), "");
     }
-} // namespace Piccolo
+}

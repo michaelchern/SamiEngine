@@ -51,4 +51,4 @@ namespace Piccolo
         int   m_fps {0};
     };
 
-} // namespace Piccolo
+}

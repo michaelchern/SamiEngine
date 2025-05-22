@@ -1,4 +1,4 @@
-#include "runtime/core/math/vector2.h"
+#include "vector2.h"
 
 namespace Piccolo
 {
@@ -9,4 +9,4 @@ namespace Piccolo
     const Vector2 Vector2::NEGATIVE_UNIT_Y(0, -1);
     const Vector2 Vector2::UNIT_SCALE(1, 1);
 
-} // namespace Piccolo
+}

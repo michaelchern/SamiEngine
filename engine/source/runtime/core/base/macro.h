@@ -1,8 +1,8 @@
 #pragma once
 
-#include "runtime/core/log/log_system.h"
+#include "../log/log_system.h"
 
-#include "runtime/function/global/global_context.h"
+#include "../../function/global/global_context.h"
 
 #include <chrono>
 #include <thread>

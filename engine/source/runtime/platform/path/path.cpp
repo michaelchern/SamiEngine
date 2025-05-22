@@ -1,4 +1,4 @@
-#include "runtime/platform/path/path.h"
+#include "path.h"
 
 using namespace std;
 
@@ -38,4 +38,4 @@ namespace Piccolo
 
         return file_pure_name;
     }
-} // namespace Piccolo
+}

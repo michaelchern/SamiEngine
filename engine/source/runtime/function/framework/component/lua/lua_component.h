@@ -28,4 +28,4 @@ namespace Piccolo
         META(Enable)
         std::string m_lua_script;
     };
-} // namespace Piccolo
+}

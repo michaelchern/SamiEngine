@@ -1,16 +1,16 @@
-﻿#include "runtime/engine.h"
+﻿#include "engine.h"
 
-#include "runtime/core/base/macro.h"
-#include "runtime/core/meta/reflection/reflection_register.h"
+#include "core/base/macro.h"
+#include "core/meta/reflection/reflection_register.h"
 
-#include "runtime/function/framework/world/world_manager.h"
-#include "runtime/function/global/global_context.h"
-#include "runtime/function/input/input_system.h"
-#include "runtime/function/particle/particle_manager.h"
-#include "runtime/function/physics/physics_manager.h"
-#include "runtime/function/render/render_system.h"
-#include "runtime/function/render/window_system.h"
-#include "runtime/function/render/debugdraw/debug_draw_manager.h"
+#include "function/framework/world/world_manager.h"
+#include "function/global/global_context.h"
+#include "function/input/input_system.h"
+#include "function/particle/particle_manager.h"
+#include "function/physics/physics_manager.h"
+#include "function/render/render_system.h"
+#include "function/render/window_system.h"
+#include "function/render/debugdraw/debug_draw_manager.h"
 
 namespace Piccolo
 {

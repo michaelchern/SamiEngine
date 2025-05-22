@@ -17,4 +17,4 @@ namespace Piccolo
     private:
         static std::atomic<GObjectID> m_next_id;
     };
-} // namespace Piccolo
+}

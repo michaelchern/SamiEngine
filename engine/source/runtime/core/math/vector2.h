@@ -1,7 +1,7 @@
 #pragma once
 
-#include "runtime/core/math/math.h"
-#include "runtime/core/meta/reflection/reflection.h"
+#include "math.h"
+#include "../meta/reflection/reflection.h"
 
 #include <cassert>
 #include <cmath>
@@ -341,4 +341,4 @@ namespace Piccolo
         static const Vector2 UNIT_SCALE;
     };
 
-} // namespace Piccolo
+}

@@ -1,4 +1,4 @@
-#include "runtime/core/log/log_system.h"
+#include "log_system.h"
 
 #include <spdlog/async.h>
 #include <spdlog/sinks/basic_file_sink.h>
@@ -33,4 +33,4 @@ namespace Piccolo
         spdlog::drop_all();
     }
 
-} // namespace Piccolo
+} 
